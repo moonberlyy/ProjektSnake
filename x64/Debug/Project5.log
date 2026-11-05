@@ -1,0 +1,9 @@
+﻿  Inicjalizacja.c
+  LogikaGry.c
+  main.c
+  ObslugaWejsc.c
+  RysujPlansze.c
+  SekcjaSystemowa.c
+D:\SnakeC\Project5\Project5\RysujPlansze.c(12,17): warning C4013: niezdefiniowany "printf"; przy założeniu, że extern zwraca int
+  Generowanie kodu...
+  Project5.vcxproj -> D:\SnakeC\Project5\x64\Debug\Project5.exe
